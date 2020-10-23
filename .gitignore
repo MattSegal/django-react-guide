@@ -1,0 +1,4 @@
+# Django / Python stuff
+env/
+*.pyc
+*.sqlite3
