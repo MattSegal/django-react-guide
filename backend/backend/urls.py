@@ -1,9 +1,9 @@
 from django.contrib import admin
 from django.urls import path
 
-from todos import views as todo_views
+from myapp import views as myapp_views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", todo_views.index),
+    path("", myapp_views.index),
 ]
