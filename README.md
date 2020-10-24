@@ -2,7 +2,7 @@
 
 Example code for a Django / React [setup guide](https://mattsegal.dev/django-react.html)
 
-This branch represents the project with a minimal Webpack setup, but no React or Babel yet.
+This branch represents the project with a minimal Webpack setup plus React and Babel.
 
 ## Frontend setup instructions
 
